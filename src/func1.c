@@ -7,4 +7,7 @@ void foo() {
 
 void hoo() {
     printf("hello hoo\n");
+
+void goo() {
+    printf("hello goo\n");
 }
